@@ -97,10 +97,8 @@ streamlit run main.py
 
 Przykład analizy logu:
 
-```
 [27] <- (Numer linii logu) Cross-Site Scripting (XSS)
 GET /search?q=<script>console.log('test')</script> 200 Ten log wskazuje na próbę ataku XSS poprzez wstrzyknięcie skryptu JS w parametrze zapytania. Zalecenia: Implementuj ochronę przed XSS poprzez użycie eskapowania znaków i walidację danych wejściowych.
-```
 
 Pełny raport znajduje się w pliku [`threat_report.md`](./threat_report.md).
 
