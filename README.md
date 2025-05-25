@@ -54,7 +54,9 @@ Formatowanie promptu
 ├── docs/
 │   ├── becyb_raport.pdf    # Raport projektu
 │   ├── threat_report.pdf   # Konwersja z Markdown
+├── requirements.txt       # Plik z wymaganymi pakietami pip
 └── README.md              # Niniejszy plik
+
 ```
 
 ---
