@@ -50,10 +50,9 @@ Formatowanie promptu
 │   ├── risk_analyzer.py    # Klasyfikacja zagrożeń
 │   ├── batcher.py          # Grupowanie logów
 ├── .env.example           # Przykładowy plik z danymi API
-├── threat_report.md       # Przykładowy raport wygenerowany przez system
 ├── docs/
 │   ├── BECYB_PROJEKT_RAPORT.pdf    # Raport projektu
-│   ├── threat_report.pdf   # Konwersja z Markdown
+│   ├── threat_report.md       # Przykładowy raport wygenerowany przez system
 ├── requirements.txt       # Plik z wymaganymi pakietami pip
 └── README.md              # Niniejszy plik
 
