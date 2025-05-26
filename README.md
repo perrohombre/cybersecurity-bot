@@ -52,7 +52,7 @@ Formatowanie promptu
 ├── .env.example           # Przykładowy plik z danymi API
 ├── threat_report.md       # Przykładowy raport wygenerowany przez system
 ├── docs/
-│   ├── becyb_raport.pdf    # Raport projektu
+│   ├── BECYB_PROJEKT_RAPORT.pdf    # Raport projektu
 │   ├── threat_report.pdf   # Konwersja z Markdown
 ├── requirements.txt       # Plik z wymaganymi pakietami pip
 └── README.md              # Niniejszy plik
